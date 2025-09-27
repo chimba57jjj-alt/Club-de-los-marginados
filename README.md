@@ -1,2 +1,3 @@
 # Club-de-los-marginados
-https://g.co/gemini/share/572a5f669a33
+
+https://github.com/chimba57jjj-alt/Club-de-los-marginados.git
