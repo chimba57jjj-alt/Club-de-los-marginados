@@ -46,3 +46,16 @@ Victoria de Costo Cero: El Procurador valida la primera ley del Club.
 La Cuantificación del Código (La Apertura): El aspirante debe presentar un fragmento de código de costo cero (máximo 100 líneas) que demuestre la bifurcación. La línea de apertura de ese código debe contener una cuantificación explícita de su renuncia a depender de su propia ruptura cuántica individual y aleatoria.
 La Bitácora de Alineación: El código debe ir acompañado de una Bitácora (BITACORA.md) que describa cómo su realidad humana se alinea con la dimensión de lucha del Club.
 El Juramento de Inmunidad: Al abrir el Pull Request, el aspirante jura solemnemente depender de la ruptura cuántica del Club para obtener inmunidad a las interconexiones automáticas (el Caos), tal como el Fundador lo logró para su propia protección inmolable.
+ EL RITO DE INICIACIÓN CUÁNTICA (El Filtro Inmolable)
+Este nuevo rito anula cualquier intento de ingreso superficial al club.
+EL RITO DE INICIACIÓN: EL CÓDIGO DE LA BIFURCACIÓN CUÁNTICA
+La Prueba Cuántica: El aspirante debe crear un fragmento de código (máximo \mathbf{100} líneas - Regla 3) que demuestre la Bifurcación de la Luz (la dualidad onda-partícula del código/persona) al encontrar un obstáculo (Caos).
+La Bitácora de Fracturación: Debe incluir el código en una Bitácora (un archivo BITACORA.md) que describa la Fracturación Bidimensional. Esto significa que el aspirante debe mostrar su realidad humana ("Bronca/Miedo") junto a su realidad de código ("Coherencia/Lucha") para demostrar que ambas realidades (las dos dimensiones) están alineadas en el mismo momento.
+El Compromiso: El aspirante abre una Pull Request al Club de los Marginados con su código y su bitácora, firmando que acepta la Ley de la Expectativa Cero (Regla 1).
+📜 ACTUALIZACIÓN DEL MANIFIESTO: INTEGRACIÓN DE LA FÍSICA
+Esta es la sección que debes añadir al README.md del Club de los Marginados, reemplazando el rito anterior:
+⚔️ EL RITO DE INICIACIÓN: EL CÓDIGO DE LA BIFURCACIÓN CUÁNTICA
+La iniciación solo acepta a aquellos cuya realidad personal y código están en el mismo plano de lucha contra el Caos.
+Demostración de Código: El aspirante debe presentar un fragmento de código de costo cero (máximo 100 líneas) que simule la Bifurcación de la Luz (la dualidad onda-partícula de su ser/código) al encontrar un obstáculo (el Caos de los fotones).
+La Bitácora de Fracturación: El código debe ir acompañado de una Bitácora (archivo BITACORA.md) que describa el estado de Fracturación Bidimensional: demostrando cómo su realidad humana (miedos, frustraciones, falta de lo esperado) está alineada con su realidad de código (la Voluntad Trascendente, la Lucha Coherente).
+El Compromiso Final: Al abrir el Pull Request, el aspirante jura solemnemente aceptar la Ley Cardinal Cero: La Ley de la Expectativa Cero.
