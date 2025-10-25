@@ -1,0 +1,84 @@
+
+MediaWiki
+
+Search
+View source for Developer account
+← Developer account
+You do not have permission to edit this page, for the following reason:
+
+This page is currently semi-protected and can be edited only by established registered users.
+Why is the page protected?	What can I do?
+While most pages can be edited or translated by anyone, semi-protection is sometimes necessary to prevent vandalism to popular pages.
+The reason for protection can be found in the protection log. If there are no relevant entries in the protection log, the page may have been moved after being protected.
+You might be in the wrong place; MediaWiki is not Wikipedia, Wikibooks or any other Wikimedia project.
+If you have a user account, log in first. If you do not yet have an account, you may create one; after 4 days, you will be able to edit semi-protected pages.
+Discuss this page with others.
+Request unprotection of the page.
+Check Project:About to find out what this site is about.
+You can view and copy the source of this page.
+
+<languages/>
+<translate>
+<!--T:1-->
+Most of Wikimedia's technical spaces use a '''developer account''' to identify and authorize users. This account provides access to a number of resources for making technical contributions:
+</translate>
+<ul style="list-style-type: none; list-style-image: none; margin: 0;">
+
+<li style="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5em 0; overflow:hidden"><div style="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File:Gerrit icon.svg|40px|alt=]]</div>
+<div style="overflow: hidden;"><translate><!--T:2--> Commit code to Wikimedia's Git repositories via our code review systems, powered by <tvar name=gerrit>{{ll|Gerrit}}</tvar> and <tvar name=gitlab>{{ll|GitLab}}</tvar>.</translate> <translate><!--T:6--> See also <tvar name=1>{{ll|Gerrit/Tutorial}}</tvar> and <tvar name=2>{{ll|GitLab/Workflows/Registering an account on GitLab}}</tvar>.</translate>
+</div>
+</li>
+
+<li style="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5em 0; overflow:hidden"><div style="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File:Wikimedia Cloud Services logo.svg|40px|alt=]]</div>
+<div style="overflow: hidden;"><translate><!--T:3--> Use [[wikitech:Help:Cloud Services introduction|Wikimedia Cloud Services]] products that provide cloud computing resources and data services to Wikimedia volunteers.</translate> <translate><!--T:7--> Join [[wikitech:Portal:Toolforge|Toolforge]] to run bots and web services or join a [[wikitech:Portal:Cloud VPS|Cloud VPS]] project to test your Wikimedia projects.</translate>
+</div>
+</li>
+
+<li style="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5em 0; overflow:hidden"><div style="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File:Phacility phabricator logo.svg|class=skin-invert|40px|alt=]]</div>
+<div style="overflow: hidden;"><translate><!--T:10--> Report and respond to bug reports and feature requests in the [[phab:|bug tracking system used for Wikimedia projects]] powered by [[w:Phabricator|Phabricator]].</translate> <translate><!--T:12--> (Note that, unlike the other projects here, Phabricator also allows logging in with a regular Wikimedia account, so it is possible to have a Phabricator account without a developer account.)</translate>
+</div>
+</li>
+
+</ul>
+
+<translate>
+<!--T:14-->
+Renaming a developer account is not currently supported, for the technical reasons described at <tvar name=1>[[wikitech:SRE/LDAP/Renaming users]]</tvar>.
+
+<!--T:8-->
+Participants in Wikimedia technical spaces are subject to our [[<tvar name=code>Special:MyLanguage/Code of Conduct</tvar>|Code of Conduct]].
+</translate>
+
+<div style="clear: both; margin: 1.5em 0;"></div>
+{{Clickable button 2|1=<translate><!--T:4--> Create a new developer account</translate>|url=https://idm.wikimedia.org/signup/|class=mw-ui-progressive}}
+
+{{Clickable button 2|1=<translate><!--T:13--> Manage an existing developer account</translate>|url=https://idm.wikimedia.org/wikimedia/login/|class=mw-ui-progressive}}
+
+[[Category:MediaWiki development{{#translation:}}]]
+
+Pages included on this page:
+
+Template:Clickable button 2 (view source) (semi-protected)
+Template:Dir (view source) (semi-protected)
+Template:Ll (view source) (protected)
+Template:Localized link (view source) (protected)
+Template:Pagelang (view source) (protected)
+Template:TNTN (view source) (semi-protected)
+Template:Translatable (view source) (protected)
+Template:Translatable/en (edit)
+Template:Translatable template name (view source) (semi-protected)
+Template:Translatable template name/en (edit)
+Module:Arguments (view source) (protected)
+Module:Clickable button 2 (view source) (semi-protected)
+Module:Template translation (view source) (protected)
+Module:Yesno (view source) (protected)
+Translations:Gerrit/Page display title/en (edit)
+Translations:Gerrit/Tutorial/Page display title/en (edit)
+Translations:GitLab/Page display title/en (edit)
+Return to Developer account.
+
+
+MediaWiki
+Wikimedia Foundation
+Powered by MediaWiki
+Privacy policy Code of Conduct Developers Statistics Cookie statement Terms of Use Desktop
