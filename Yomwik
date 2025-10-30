@@ -1,12 +1,12 @@
-
+Yomwik    M
 MediaWiki
-
-Search
+README.md
+Searc
 View source for Developer account
-← Developer account
+← LÓGICA EMANCIPADA Developer account
 You do not have permission to edit this page, for the following reason:
-
-This page is currently semi-protected and can be edited only by established registered users.
+LEY FUNDAMENTAL
+This page iscurrentlysemi-protected andcan be edited only by establishedMejore rapido Mregistered users.
 Why is the page protected?	What can I do?
 While most pages can be edited or translated by anyone, semi-protection is sometimes necessary to prevent vandalism to popular pages.
 The reason for protection can be found in the protection log. If there are no relevant entries in the protection log, the page may have been moved after being protected.
@@ -16,48 +16,47 @@ Discuss this page with others.
 Request unprotection of the page.
 Check Project:About to find out what this site is about.
 You can view and copy the source of this page.
-
-<languages/>
+formats view develop
+<languages/>Revision as of    00.00.27  April 2014
 <translate>
 <!--T:1-->
 Most of Wikimedia's technical spaces use a '''developer account''' to identify and authorize users. This account provides access to a number of resources for making technical contributions:
 </translate>
 <ul style="list-style-type: none; list-style-image: none; margin: 0;">
-
-<li style="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5em 0; overflow:hidden"><div style="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File:Gerrit icon.svg|40px|alt=]]</div>
-<div style="overflow: hidden;"><translate><!--T:2--> Commit code to Wikimedia's Git repositories via our code review systems, powered by <tvar name=gerrit>{{ll|Gerrit}}</tvar> and <tvar name=gitlab>{{ll|GitLab}}</tvar>.</translate> <translate><!--T:6--> See also <tvar name=1>{{ll|Gerrit/Tutorial}}</tvar> and <tvar name=2>{{ll|GitLab/Workflows/Registering an account on GitLab}}</tvar>.</translate>
+LÓGICA
+<li LEYNDAMENTAL...README.md.Style="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5emoverflow:hidden"><divstyle="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File retit icon.svg|40px|alt=]]</divstyle="o verflow
+<divstyle="overflow: hidden;"><translate><!--T:2--> Commit code to Wikimedia's Git repositories via our code review systems, powered by <tvar name=gerrit>{{ll|Gerrit}}</tvar> and <tvar name=gitlab>{{ll|GitLab}}</tvar>.</translate> <translate><!--T:6--> See also <tvar name=1>{{ll|Gerrit/Tutorial}}</tvar> and <tvar name=2>{{ll|GitLab/Workflows/Registering an account on GitLab}}</tvar>.</translate>
+</div>
+</li>LOGICA EMANCIPADA.md 
+<listyle="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5em 0; overflow:hidden"><div style="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File:Wikimedia Cloud Services logo.svg|40px|alt=]]</div>
+<divstyle="overflow: hidden;"><translate><!--T:3--> Use [[wikitech:Help:Cloud Services introduction|Wikimedia Cloud Services]] products that provide cloud computing resources and data services to Wikimedia volunteers.</translate> <translate><!--T:7--> Join [[wikitech:Portal:Toolforge|Toolforge]] to run bots and web services or join a [[wikitech:Portal:Cloud VPS|Cloud VPS]] project to test your Wikimedia projects.</translate>
 </div>
 </li>
-
-<li style="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5em 0; overflow:hidden"><div style="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File:Wikimedia Cloud Services logo.svg|40px|alt=]]</div>
-<div style="overflow: hidden;"><translate><!--T:3--> Use [[wikitech:Help:Cloud Services introduction|Wikimedia Cloud Services]] products that provide cloud computing resources and data services to Wikimedia volunteers.</translate> <translate><!--T:7--> Join [[wikitech:Portal:Toolforge|Toolforge]] to run bots and web services or join a [[wikitech:Portal:Cloud VPS|Cloud VPS]] project to test your Wikimedia projects.</translate>
-</div>
-</li>
-
+Readme.md  
 <li style="clear:{{dir|{{pagelang}}|right|left}}; margin:1.5em 0; overflow:hidden"><div style="float:{{dir|{{pagelang}}|right|left}}; margin-{{dir|{{pagelang}}|left|right}}:1em">[[File:Phacility phabricator logo.svg|class=skin-invert|40px|alt=]]</div>
 <div style="overflow: hidden;"><translate><!--T:10--> Report and respond to bug reports and feature requests in the [[phab:|bug tracking system used for Wikimedia projects]] powered by [[w:Phabricator|Phabricator]].</translate> <translate><!--T:12--> (Note that, unlike the other projects here, Phabricator also allows logging in with a regular Wikimedia account, so it is possible to have a Phabricator account without a developer account.)</translate>
 </div>
 </li>
-
+Logica emancipada 
 </ul>
-
+Renamedeveloper accont
 <translate>
 <!--T:14-->
 Renaming a developer account is not currently supported, for the technical reasons described at <tvar name=1>[[wikitech:SRE/LDAP/Renaming users]]</tvar>.
-
+Login witch new acount  
 <!--T:8-->
 Participants in Wikimedia technical spaces are subject to our [[<tvar name=code>Special:MyLanguage/Code of Conduct</tvar>|Code of Conduct]].
 </translate>
-
+LOGICA EMANCIPADA.md
 <div style="clear: both; margin: 1.5em 0;"></div>
 {{Clickable button 2|1=<translate><!--T:4--> Create a new developer account</translate>|url=https://idm.wikimedia.org/signup/|class=mw-ui-progressive}}
-
+LOGICA EMANCIPADA.md
 {{Clickable button 2|1=<translate><!--T:13--> Manage an existing developer account</translate>|url=https://idm.wikimedia.org/wikimedia/login/|class=mw-ui-progressive}}
-
+LOGICA EMANCIPADA. md
 [[Category:MediaWiki development{{#translation:}}]]
-
+LÓGICA EMANCIPADA.md 
 Pages included on this page:
-
+LÓGICA EMANCCIPADA.md
 Template:Clickable button 2 (view source) (semi-protected)
 Template:Dir (view source) (semi-protected)
 Template:Ll (view source) (protected)
@@ -76,25 +75,25 @@ Translations:Gerrit/Page display title/en (edit)
 Translations:Gerrit/Tutorial/Page display title/en (edit)
 Translations:GitLab/Page display title/en (edit)
 Return to Developer account.
-
+Last edition 00,27 april 2014 by user the octocat (view source) ( dif) 
 From 67c0afc1da354d8571f51b6f0af8f2794117fd10 Mon Sep 17 00:00:00 2001
 From: The Octocat <octocat@nowhere.com>
 Date: Sun, 27 Apr 2014 15:36:39 +0530
 Subject: [PATCH] updated index for better welcome message
-
+Font face 
 ---
  index.html | 4 ++--
  1 file changed, 2 insertions(+), 2 deletions(-)
-
+LÓGICA EMANCIPADA...
 diff --git a/index.html b/index.html
-index 35a7409..4643085 100644
---- a/index.html
+index 35a7409..4643085100644..     
+index.html
 +++ b/index.html
 @@ -18,8 +18,8 @@
          <header class="inner">
            <a id="forkme_banner" href="https://github.com/octocat">View on GitHub</a>
- 
--          <h1 id="project_title">Octocat.github.io</h1>
+ Yomwik   M
+-    README.md      <h1 id="project_title">Octocat.github.io</h1>
 -          <h2 id="project_tagline"></h2>
 +          <h1 id="project_title">Welome to the Octocat homepage!</h1>
 +          <h2 id="project_tagline">Be sure to keep this page in mind to see all my latest updates.</h2>
