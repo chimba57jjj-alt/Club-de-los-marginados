@@ -82,28 +82,29 @@ Date: Sun, 27 Apr 2014 15:36:39 +0530
 Subject: [PATCH] updated index for better welcome message
 Font face 
 ---
- index.html | 4 ++--
- 1 file changed, 2 insertions(+), 2 deletions(-)
-LÓGICA EMANCIPADA...
-diff --git a/index.html b/index.html
-index 35a7409..4643085100644..     
-index.html
-+++ b/index.html
-@@ -18,8 +18,8 @@
+     index.html | 4 ++--
+  1 file changed, 2 insertions(+), 2 deletions(-)
+   LÓGICA EMANCIPADA...
+   giff --git a/index.html b/index.html
+   index 35a7409..4643085100644..     
+   index.html
+   ++ b/index.html
+      @chimba57jjj-alt  @chimba57jjj-alt-18,8 +18,8 @@
          <header class="inner">
-           <a id="forkme_banner" href="https://github.com/octocat">View on GitHub</a>
- Yomwik   M
--    README.md      <h1 id="project_title">Octocat.github.io</h1>
--          <h2 id="project_tagline"></h2>
-+          <h1 id="project_title">Welome to the Octocat homepage!</h1>
+           <a id="forkme_bawner" href="https://github.com/octocat">View on GitHub</a>
+      Yomwik   M
+       README.md      <h1 id="project_title">Octocat.github.io</h1>
+        <h2      id=   project_tagline"><ID2>
+
+           <h1 id="project_title">Welome to the Octocat homepage!</h1>
 +          <h2 id="project_tagline">Be sure to keep this page in mind to see all my latest updates.</h2>
  
          </header>
      </div>
-MediaWiki
-Wikimedia Foundation
-Powered by MediaWiki
-Privacy policy Code of Conduct Developers Statistics Cookie statement Terms of Use Desktop
+    mediaWiki
+     wikimedia Foundation
+     powered by MediaWiki
+     privacy policy Code of Conduct Developers Statistics Cookie statement Terms of Use Desktop
 
 
 
